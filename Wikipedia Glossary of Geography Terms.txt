@@ -1,4 +1,4 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
 <dl class="glossary">
 <span id="absolute_location"></span><dt class="glossary" id="absolute_location" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Absolute_location" class="mw-redirect" title="Absolute location">absolute location</a></dfn></dt>
 <dd class="glossary">The particular <a href="#location"><span title="See entry on this page at § location" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">location</span></a> of a point on the Earth's surface that can be expressed by a grid reference such as <a href="#latitude"><span title="See entry on this page at § latitude" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">latitude</span></a> and <a href="#longitude"><span title="See entry on this page at § longitude" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">longitude</span></a>.<sup id="cite_ref-OERI_1996_1-0" class="reference"><a href="#cite_note-OERI_1996-1">&#91;1&#93;</a></sup></dd>
@@ -128,7 +128,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 
 <span id="backwater"></span><dt class="glossary" id="backwater" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Backwater_(river)" title="Backwater (river)">backwater</a></dfn></dt>
@@ -263,7 +262,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="cadastre"></span><dt class="glossary" id="cadastre" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cadastre" title="Cadastre">cadastre</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also spelled <b>cadaster</b>.</span></p>
@@ -513,7 +511,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="dale"></span><dt class="glossary" id="dale" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dale_(landform)" title="Dale (landform)">dale</a></dfn></dt>
 <dd class="glossary">Another name for a <a href="#valley"><span title="See entry on this page at § valley" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">valley</span></a>.</dd>
@@ -643,7 +640,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="Earth_science"></span><dt class="glossary" id="earth_science" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Earth_science" title="Earth science">Earth science</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called the <b>Earth sciences</b> or <b>geoscience</b>.</span></p>
@@ -765,7 +761,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="fall_line" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fall_line" title="Fall line">fall line</a></dfn></dt>
 <dd class="glossary">A <a href="/wiki/Geomorphology" title="Geomorphology">geomorphologic</a> <a href="/wiki/Unconformity" title="Unconformity">unconformity</a> between an upland region of relatively hard <a href="/wiki/Basement_(geology)" title="Basement (geology)">crystalline basement rock</a> and a <a href="/wiki/Coastal_plain" title="Coastal plain">coastal plain</a> of softer <a href="/wiki/Sedimentary_rock" title="Sedimentary rock">sedimentary rock</a>.</dd>
@@ -871,7 +866,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="gazetteer"></span><dt class="glossary" id="gazetteer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gazetteer" title="Gazetteer">gazetteer</a></dfn></dt>
 <dd class="glossary">A geographical dictionary or directory used in conjunction with a <a href="#map"><span title="See entry on this page at § map" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">map</span></a> or <a href="#atlas"><span title="See entry on this page at § atlas" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">atlas</span></a> and containing information concerning the geographical make-up, social statistics, and physical features of a <a href="#country"><span title="See entry on this page at § country" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">country</span></a>, <a href="#region"><span title="See entry on this page at § region" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">region</span></a>, or <a href="#continent"><span title="See entry on this page at § continent" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">continent</span></a>.</dd>
@@ -1054,7 +1048,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="hamlet"></span><dt class="glossary" id="hamlet" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hamlet_(place)" title="Hamlet (place)">hamlet</a></dfn></dt>
 <dd class="glossary">A small human settlement, variably defined as one the size of a <a href="#town"><span title="See entry on this page at § town" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">town</span></a>, <a href="#village"><span title="See entry on this page at § village" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">village</span></a>, or <a href="#parish"><span title="See entry on this page at § parish" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">parish</span></a> or as a smaller subdivision of or satellite entity to a larger settlement.</dd>
@@ -1182,7 +1175,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="ice_age"></span><dt class="glossary" id="ice_age" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ice_age" title="Ice age">ice age</a></dfn></dt>
 <dd class="glossary">A time of widespread <a href="#glaciation"><span title="See entry on this page at § glaciation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">glaciation</span></a>, such as the <a href="/wiki/Pleistocene_Epoch" class="mw-redirect" title="Pleistocene Epoch">Pleistocene Epoch</a>.<sup id="cite_ref-IIP_2008_2-64" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
@@ -1299,7 +1291,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="jurisdiction"></span><dt class="glossary" id="jurisdiction" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Jurisdiction" title="Jurisdiction">jurisdiction</a></dfn></dt>
 <dd class="glossary">1.&#160;&#160;The right and power to apply the law in a particular place or within a defined field of responsibility.</dd>
@@ -1313,7 +1304,6 @@
 <dd class="glossary">An area covered with dense vegetation dominated by large trees, often tropical.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="kame"></span><dt class="glossary" id="kame" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Kame" title="Kame">kame</a></dfn></dt>
 <dd class="glossary">An irregularly shaped <a href="#hill"><span title="See entry on this page at § hill" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hill</span></a> or <a href="#mound"><span title="See entry on this page at § mound" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mound</span></a> composed of sand, gravel, and <a href="#till"><span title="See entry on this page at § till" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">glacial till</span></a> which accumulates in a depression on a retreating <a href="#glacier"><span title="See entry on this page at § glacier" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">glacier</span></a> and is subsequently deposited on the land surface with further melting of the glacier. Kames are often associated with <a href="#kettle"><span title="See entry on this page at § kettle" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">kettles</span></a>.</dd>
@@ -1371,7 +1361,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="lacustrine_plain" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lacustrine_plain" title="Lacustrine plain">lacustrine plain</a></dfn></dt>
 <dd class="glossary">A nearly level land area formed by the infilling of a <a href="#lake"><span title="See entry on this page at § lake" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">lake</span></a> with sediment and the complete drainage or evaporation of water from the lake, leaving the deposited sediments behind.<sup id="cite_ref-IIP_2008_2-71" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
@@ -1491,7 +1480,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="maar"></span><dt class="glossary" id="maar" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Maar" title="Maar">maar</a></dfn></dt>
 <dd class="glossary">A broad, shallow, flat-bottomed <a href="#volcanic_crater"><span title="See entry on this page at § volcanic crater" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">volcanic crater</span></a> created by an eruption involving <a href="#groundwater"><span title="See entry on this page at § groundwater" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">groundwater</span></a> coming into contact with <a href="#magma"><span title="See entry on this page at § magma" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">magma</span></a>. Maars commonly have low rims and subtle <a href="#terrain"><span title="See entry on this page at § terrain" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">relief</span></a> and characteristically fill with water to form <a href="#crater_lake"><span title="See entry on this page at § crater lake" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crater lakes</span></a>.</dd>
@@ -1674,7 +1662,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="nadir"></span><dt class="glossary" id="nadir" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Nadir" title="Nadir">nadir</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1765,7 +1752,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="oasis"></span><dt class="glossary" id="oasis" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Oasis" title="Oasis">oasis</a></dfn></dt>
 <dd class="glossary">A combination of a human <a href="#settlement"><span title="See entry on this page at § settlement" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">settlement</span></a> and an area of cultivated vegetation in an otherwise desolate <a href="#desert"><span title="See entry on this page at § desert" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">desert</span></a> or semi-desert environment, made fertile when sources of <a href="#fresh_water"><span title="See entry on this page at § fresh water" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">fresh water</span></a>, such as underground <a href="#aquifer"><span title="See entry on this page at § aquifer" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">aquifers</span></a>, irrigate the surface naturally or via man-made wells.</dd>
@@ -1843,7 +1829,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="palisade"></span><dt class="glossary" id="palisade" style="margin-top: 0.4em;"><dfn class="glossary"><a href="https://en.wiktionary.org/wiki/palisade" class="extiw" title="wikt:palisade">palisade</a></dfn></dt>
 <dd class="glossary">1.&#160;&#160;A wall of wooden stakes used as a defensive barrier.</dd>
@@ -2038,7 +2023,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="quadrangle"></span><dt class="glossary" id="quadrangle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quadrangle_(geography)" title="Quadrangle (geography)">quadrangle</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also abbreviated <b>quad</b>.</span></p>
@@ -2048,7 +2032,6 @@
 <dd class="glossary">A place from which stone, rock, sand, gravel, slate, or <a href="/wiki/Construction_aggregate" title="Construction aggregate">aggregate</a> is excavated from the ground. Also sometimes called an <i><a href="/wiki/Open-pit_mine" class="mw-redirect" title="Open-pit mine">open-pit mine</a></i>.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="rail_gauge"></span><dt class="glossary" id="rail_gauge" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Rail_gauge" class="mw-redirect" title="Rail gauge">rail gauge</a></dfn></dt>
 <dd class="glossary">The distance between the two rails of a railroad.<sup id="cite_ref-IIP_2008_2-103" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
@@ -2165,7 +2148,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="saddle"></span><dt class="glossary" id="saddle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Saddle_(landform)" title="Saddle (landform)">saddle</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -2413,7 +2395,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="taiga"></span><dt class="glossary" id="taiga" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Taiga" title="Taiga">taiga</a></dfn></dt>
 <dd class="glossary">A moist subarctic coniferous <a href="#forest"><span title="See entry on this page at § forest" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">forest</span></a> that begins where the <a href="#tundra"><span title="See entry on this page at § tundra" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tundra</span></a> ends and is dominated by spruces and firs.<sup id="cite_ref-IIP_2008_2-125" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
@@ -2569,7 +2550,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="underpopulation"></span><dt class="glossary" id="underpopulation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Underpopulation" class="mw-redirect" title="Underpopulation">underpopulation</a></dfn></dt>
 <dd class="glossary">Economically, a situation in which an increase in the size of the labor force will result in an increase in per-worker productivity.<sup id="cite_ref-IIP_2008_2-136" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
@@ -2600,7 +2580,6 @@
 <dd class="glossary">The process by which a human <a href="#population"><span title="See entry on this page at § population" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">population</span></a> shifts from <a href="#rural"><span title="See entry on this page at § rural" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">rural</span></a> to <a href="#urban"><span title="See entry on this page at § urban" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">urban</span></a> residency, the gradual increase in the proportion of people living in urban areas such as <a href="#town"><span title="See entry on this page at § town" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">towns</span></a> and <a href="#city"><span title="See entry on this page at § city" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cities</span></a>, and the ways in which human societies respond and adapt to this change. Urbanization may be characterized as a specific condition at a set time (e.g. the proportion of the total population or physical area within a given set of towns or cities) or as an increase in that condition over time. It precipitates enormous social, economic, and environmental changes for the planet as a whole.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="vale"></span><dt class="glossary" id="vale" style="margin-top: 0.4em;"><dfn class="glossary"><a href="https://en.wiktionary.org/wiki/vale" class="extiw" title="wikt:vale">vale</a></dfn></dt>
 <dd class="glossary">Another name for a <i><a href="#valley"><span title="See entry on this page at § valley" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">valley</span></a></i>.</dd>
@@ -2669,7 +2648,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="wadi"></span><dt class="glossary" id="wadi" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Wadi" title="Wadi">wadi</a></dfn></dt>
 <dd class="glossary">1.&#160;&#160;Another name for a <a href="#valley"><span title="See entry on this page at § valley" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">valley</span></a>, used primarily in Arabic-speaking parts of the world.</dd>
@@ -2728,13 +2706,11 @@
 <dd class="glossary">A <a href="#map"><span title="See entry on this page at § map" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">map</span></a> of most or all of the surface of the Earth.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=24" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="yardang"></span><dt class="glossary" id="yardang" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Yardang" title="Yardang">yardang</a></dfn></dt>
 <dd class="glossary">A streamlined protuberance carved from <a href="#bedrock"><span title="See entry on this page at § bedrock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">bedrock</span></a> or any consolidated or semi-consolidated material by the dual action of wind <a href="/wiki/Abrasion_(geology)" title="Abrasion (geology)">abrasion</a> and erosion, especially one found in a <a href="#desert"><span title="See entry on this page at § desert" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">desert</span></a>.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geography_terms&amp;action=edit&amp;section=25" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="zoning"></span><dt class="glossary" id="zoning" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zoning" title="Zoning">zoning</a></dfn></dt>
 <dd class="glossary">The public regulation of land and building use to control the character of a place.<sup id="cite_ref-IIP_2008_2-139" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
