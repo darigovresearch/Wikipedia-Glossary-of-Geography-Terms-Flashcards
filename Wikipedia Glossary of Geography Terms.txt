@@ -94,40 +94,6 @@
 <dd class="glossary">The angle formed between a reference vector (often <a href="#magnetic_north"><span title="See entry on this page at § magnetic north" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">magnetic north</span></a>) and a line from the observer to a point of interest projected perpendicularly to the <a href="#zenith"><span title="See entry on this page at § zenith" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">zenith</span></a> on the same <a href="/wiki/Plane_of_reference" title="Plane of reference">plane</a> as the reference vector. Azimuth is usually measured in <a href="#degree"><span title="See entry on this page at § degree" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">degrees</span></a> and can be determined with a <a href="#compass"><span title="See entry on this page at § compass" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">compass</span></a>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 
 <span id="backwater"></span><dt class="glossary" id="backwater" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Backwater_(river)" title="Backwater (river)">backwater</a></dfn></dt>
@@ -228,40 +194,6 @@
 <dd class="glossary">An isolated <a href="#hill"><span title="See entry on this page at § hill" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hill</span></a> or <a href="#mountain"><span title="See entry on this page at § mountain" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mountain</span></a> with steep or precipitous sides, usually having a smaller summit area than a <a href="#mesa"><span title="See entry on this page at § mesa" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mesa</span></a>.<sup id="cite_ref-IIP_2008_2-14" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="cadastre"></span><dt class="glossary" id="cadastre" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cadastre" title="Cadastre">cadastre</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also spelled <b>cadaster</b>.</span></p>
@@ -477,40 +409,6 @@
 <dd class="glossary">A term referring to the longitudinal profile of some <a href="#glaciation"><span title="See entry on this page at § glaciation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">glaciated</span></a> <a href="#valley"><span title="See entry on this page at § valley" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">valleys</span></a> which have been eroded into a series of consecutive <a href="#hanging_valley"><span title="See entry on this page at § hanging valley" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hanging valleys</span></a> resembling stairs.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="dale"></span><dt class="glossary" id="dale" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dale_(landform)" title="Dale (landform)">dale</a></dfn></dt>
 <dd class="glossary">Another name for a <a href="#valley"><span title="See entry on this page at § valley" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">valley</span></a>.</dd>
@@ -606,40 +504,6 @@
 <dd class="glossary">A hill of loose <a href="/wiki/Sand" title="Sand">sand</a> built by the movements and erosional and depositional processes of <a href="/wiki/Wind" title="Wind">wind</a> or water, often occurring in <a href="#desert"><span title="See entry on this page at § desert" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">deserts</span></a> and <a href="#coast"><span title="See entry on this page at § coast" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">coastal</span></a> areas.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="Earth_science"></span><dt class="glossary" id="earth_science" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Earth_science" title="Earth science">Earth science</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called the <b>Earth sciences</b> or <b>geoscience</b>.</span></p>
@@ -727,40 +591,6 @@
 <dd class="glossary">An adjective describing a region or district that lies outside a <a href="#city"><span title="See entry on this page at § city" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">city</span></a> and usually beyond its <a href="#suburban"><span title="See entry on this page at § suburban" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">suburbs</span></a>; a place of this type is called an <i>exurb</i>. Compare <i><a href="#rural"><span title="See entry on this page at § rural" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">rural</span></a></i>.<sup id="cite_ref-IIP_2008_2-45" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="fall_line" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fall_line" title="Fall line">fall line</a></dfn></dt>
 <dd class="glossary">A <a href="/wiki/Geomorphology" title="Geomorphology">geomorphologic</a> <a href="/wiki/Unconformity" title="Unconformity">unconformity</a> between an upland region of relatively hard <a href="/wiki/Basement_(geology)" title="Basement (geology)">crystalline basement rock</a> and a <a href="/wiki/Coastal_plain" title="Coastal plain">coastal plain</a> of softer <a href="/wiki/Sedimentary_rock" title="Sedimentary rock">sedimentary rock</a>.</dd>
@@ -832,40 +662,6 @@
 <dd class="glossary">The characteristic of a place where a variety of different activities (economic, political, or social) occur, most often associated with <a href="#urban"><span title="See entry on this page at § urban" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">urban</span></a> places.<sup id="cite_ref-IIP_2008_2-53" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="gazetteer"></span><dt class="glossary" id="gazetteer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gazetteer" title="Gazetteer">gazetteer</a></dfn></dt>
 <dd class="glossary">A geographical dictionary or directory used in conjunction with a <a href="#map"><span title="See entry on this page at § map" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">map</span></a> or <a href="#atlas"><span title="See entry on this page at § atlas" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">atlas</span></a> and containing information concerning the geographical make-up, social statistics, and physical features of a <a href="#country"><span title="See entry on this page at § country" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">country</span></a>, <a href="#region"><span title="See entry on this page at § region" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">region</span></a>, or <a href="#continent"><span title="See entry on this page at § continent" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">continent</span></a>.</dd>
@@ -1014,40 +810,6 @@
 <dd class="glossary">An isolated underwater <a href="#seamount"><span title="See entry on this page at § seamount" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">seamount</span></a> with a flat top that is at least 200 metres (660&#160;ft) below the water's surface.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="hamlet"></span><dt class="glossary" id="hamlet" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hamlet_(place)" title="Hamlet (place)">hamlet</a></dfn></dt>
 <dd class="glossary">A small human settlement, variably defined as one the size of a <a href="#town"><span title="See entry on this page at § town" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">town</span></a>, <a href="#village"><span title="See entry on this page at § village" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">village</span></a>, or <a href="#parish"><span title="See entry on this page at § parish" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">parish</span></a> or as a smaller subdivision of or satellite entity to a larger settlement.</dd>
@@ -1141,40 +903,6 @@
 <dd class="glossary">The study or measurement of land <a href="#elevation"><span title="See entry on this page at § elevation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">elevation</span></a> relative to mean <a href="#sea_level"><span title="See entry on this page at § sea level" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sea level</span></a>. Hypsometry is the terrestrial equivalent of <a href="#bathymetry"><span title="See entry on this page at § bathymetry" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">bathymetry</span></a>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="ice_age"></span><dt class="glossary" id="ice_age" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ice_age" title="Ice age">ice age</a></dfn></dt>
 <dd class="glossary">A time of widespread <a href="#glaciation"><span title="See entry on this page at § glaciation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">glaciation</span></a>, such as the <a href="/wiki/Pleistocene_Epoch" class="mw-redirect" title="Pleistocene Epoch">Pleistocene Epoch</a>.<sup id="cite_ref-IIP_2008_2-64" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
@@ -1257,40 +985,6 @@
 <dd class="glossary">A narrow piece of land <a href="#land_bridge"><span title="See entry on this page at § land bridge" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">connecting</span></a> two larger land areas across an expanse of water by which they are otherwise separated.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="jurisdiction"></span><dt class="glossary" id="jurisdiction" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Jurisdiction" title="Jurisdiction">jurisdiction</a></dfn></dt>
 <dd class="glossary">1.&#160;&#160;The right and power to apply the law in a particular place or within a defined field of responsibility.</dd>
@@ -1327,40 +1021,6 @@
 <dd class="glossary">2.&#160;&#160;Another name for a <a href="#bog_pond"><span title="See entry on this page at § bog pond" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">bog pond</span></a>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="lacustrine_plain" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lacustrine_plain" title="Lacustrine plain">lacustrine plain</a></dfn></dt>
 <dd class="glossary">A nearly level land area formed by the infilling of a <a href="#lake"><span title="See entry on this page at § lake" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">lake</span></a> with sediment and the complete drainage or evaporation of water from the lake, leaving the deposited sediments behind.<sup id="cite_ref-IIP_2008_2-71" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
@@ -1446,40 +1106,6 @@
 <dd class="glossary">Any area of land that is lower in <a href="#elevation"><span title="See entry on this page at § elevation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">elevation</span></a> relative to another area. The term is often used as a conditional descriptor to distinguish related <a href="/wiki/Habitat" title="Habitat">habitats</a> or <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a>, especially freshwater <a href="#riparian_area"><span title="See entry on this page at § riparian area" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">riparian areas</span></a>, on the basis of elevation above sea level. Lowland areas are usually relatively flat and characterized by slow-flowing waterways and <a href="#alluvial_plain"><span title="See entry on this page at § alluvial plain" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">alluvial plains</span></a>. Contrast <i><a href="#upland"><span title="See entry on this page at § upland" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">upland</span></a></i>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="maar"></span><dt class="glossary" id="maar" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Maar" title="Maar">maar</a></dfn></dt>
 <dd class="glossary">A broad, shallow, flat-bottomed <a href="#volcanic_crater"><span title="See entry on this page at § volcanic crater" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">volcanic crater</span></a> created by an eruption involving <a href="#groundwater"><span title="See entry on this page at § groundwater" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">groundwater</span></a> coming into contact with <a href="#magma"><span title="See entry on this page at § magma" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">magma</span></a>. Maars commonly have low rims and subtle <a href="#terrain"><span title="See entry on this page at § terrain" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">relief</span></a> and characteristically fill with water to form <a href="#crater_lake"><span title="See entry on this page at § crater lake" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crater lakes</span></a>.</dd>
@@ -1628,40 +1254,6 @@
 <dd class="glossary">Another name for a <a href="#bog"><span title="See entry on this page at § bog" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">bog</span></a>, used primarily in <a href="/wiki/Alaska" title="Alaska">Alaska</a> and western <a href="/wiki/Canada" title="Canada">Canada</a>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="nadir"></span><dt class="glossary" id="nadir" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Nadir" title="Nadir">nadir</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1718,40 +1310,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="oasis"></span><dt class="glossary" id="oasis" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Oasis" title="Oasis">oasis</a></dfn></dt>
 <dd class="glossary">A combination of a human <a href="#settlement"><span title="See entry on this page at § settlement" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">settlement</span></a> and an area of cultivated vegetation in an otherwise desolate <a href="#desert"><span title="See entry on this page at § desert" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">desert</span></a> or semi-desert environment, made fertile when sources of <a href="#fresh_water"><span title="See entry on this page at § fresh water" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">fresh water</span></a>, such as underground <a href="#aquifer"><span title="See entry on this page at § aquifer" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">aquifers</span></a>, irrigate the surface naturally or via man-made wells.</dd>
@@ -1795,40 +1353,6 @@
 <dd class="glossary">2.&#160;&#160;The <a href="#lake"><span title="See entry on this page at § lake" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">lake</span></a> formed when a meander is <a href="/wiki/Meander_cutoff" title="Meander cutoff">cut off</a> from the <a href="#main_stem"><span title="See entry on this page at § main stem" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">main stem</span></a> of the river, creating a separate body of water.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="palisade"></span><dt class="glossary" id="palisade" style="margin-top: 0.4em;"><dfn class="glossary"><a href="https://en.wiktionary.org/wiki/palisade" class="extiw" title="wikt:palisade">palisade</a></dfn></dt>
 <dd class="glossary">1.&#160;&#160;A wall of wooden stakes used as a defensive barrier.</dd>
@@ -1989,40 +1513,6 @@
 <dd class="glossary">A type of Indian village constructed by some tribes in the southwestern United States. A large community dwelling, divided into many rooms, up to five stories high, and usually made of adobe. This is also a Spanish word for town or village.<sup id="cite_ref-IIP_2008_2-102" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="quadrangle"></span><dt class="glossary" id="quadrangle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quadrangle_(geography)" title="Quadrangle (geography)">quadrangle</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also abbreviated <b>quad</b>.</span></p>
@@ -2114,40 +1604,6 @@
 <dd class="glossary">An adjective describing any geographic area located outside areas of significant human population such as <a href="#town"><span title="See entry on this page at § town" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">towns</span></a> and <a href="#city"><span title="See entry on this page at § city" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cities</span></a>; all population, housing, and territory not included within an <a href="#urban"><span title="See entry on this page at § urban" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">urban</span></a> area is often said to be rural. Rural areas are typified by low <a href="#population_density"><span title="See entry on this page at § population density" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">population densities</span></a>, very small <a href="#settlement"><span title="See entry on this page at § settlement" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">settlements</span></a>, and expansive areas of agricultural land or <a href="#wilderness"><span title="See entry on this page at § wilderness" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">wilderness</span></a>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="saddle"></span><dt class="glossary" id="saddle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Saddle_(landform)" title="Saddle (landform)">saddle</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -2361,40 +1817,6 @@
 <dd class="glossary">A <a href="#denudation"><span title="See entry on this page at § denudation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">denudational</span></a> <a href="#highland"><span title="See entry on this page at § highland" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">highland</span></a> or elevated <a href="https://en.wiktionary.org/wiki/flatlands" class="extiw" title="wikt:flatlands">flatland</a> in Russia and Central Asia; a kind of <a href="#dissected_plateau"><span title="See entry on this page at § dissected plateau" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">dissected plateau</span></a>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="taiga"></span><dt class="glossary" id="taiga" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Taiga" title="Taiga">taiga</a></dfn></dt>
 <dd class="glossary">A moist subarctic coniferous <a href="#forest"><span title="See entry on this page at § forest" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">forest</span></a> that begins where the <a href="#tundra"><span title="See entry on this page at § tundra" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tundra</span></a> ends and is dominated by spruces and firs.<sup id="cite_ref-IIP_2008_2-125" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
@@ -2516,40 +1938,6 @@
 <dd class="glossary">A treeless <a href="#plain"><span title="See entry on this page at § plain" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">plain</span></a> characteristic of the <a href="#arctic"><span title="See entry on this page at § Arctic" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Arctic</span></a> and subarctic regions.<sup id="cite_ref-IIP_2008_2-135" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="underpopulation"></span><dt class="glossary" id="underpopulation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Underpopulation" class="mw-redirect" title="Underpopulation">underpopulation</a></dfn></dt>
 <dd class="glossary">Economically, a situation in which an increase in the size of the labor force will result in an increase in per-worker productivity.<sup id="cite_ref-IIP_2008_2-136" class="reference"><a href="#cite_note-IIP_2008-2">&#91;2&#93;</a></sup></dd>
@@ -2614,40 +2002,6 @@
 <dd class="glossary">A vent (opening) in the Earth's surface through which <a href="/wiki/Magma" title="Magma">magma</a> erupts, or the landform that is constructed by eruptive material.<sup id="cite_ref-USGS_2010_3-39" class="reference"><a href="#cite_note-USGS_2010-3">&#91;3&#93;</a></sup></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <span id="wadi"></span><dt class="glossary" id="wadi" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Wadi" title="Wadi">wadi</a></dfn></dt>
 <dd class="glossary">1.&#160;&#160;Another name for a <a href="#valley"><span title="See entry on this page at § valley" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">valley</span></a>, used primarily in Arabic-speaking parts of the world.</dd>
