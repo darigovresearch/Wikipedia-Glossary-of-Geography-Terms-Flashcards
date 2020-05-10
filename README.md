@@ -6,7 +6,7 @@ This repository has taken definitions outlined in [Wikipedia's Glossary of geogr
 
 ## Notes
 Please note the modifications which have been made & where you can find updates.
-1. The front of every card has "(Wikipedia Glossary of Georgraphy Terms)" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.
+1. The front of every card has "(Wikipedia Glossary of Geography Terms)" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.
 2. Any updates or corrections to the deck will be available at <a href="https://github.com/darigovresearch/Wikipedia-Glossary-of-Geography-Terms-Flashcards">https://github.com/darigovresearch/Wikipedia-Glossary-of-Geography-Terms-Flashcards</a> so do return periodically to check if you have the latest version.
 
 Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.
